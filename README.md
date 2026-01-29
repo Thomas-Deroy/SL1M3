@@ -17,9 +17,9 @@
     <td align="center"><b>Gameplay</b></td>
   </tr>
   <tr>
-    <td><img src="Game/Assets/gifs/Menu_SL1M3.gif" width="250px" alt="Menu"/></td>
-    <td><img src="Game/Assets/gifs/Shop_SL1M3.gif" width="250px" alt="Shop System"/></td>
-    <td><img src="Game/Assets/gifs/Gameplay_SL1M3.gif" width="250px" alt="Gameplay"/></td>
+    <td><img src="Game/SL1M3/Assets/gifs/Menu_SL1M3.gif" width="250px" alt="Menu"/></td>
+    <td><img src="Game/SL1M3/Assets/gifs/Shop_SL1M3.gif" width="250px" alt="Shop System"/></td>
+    <td><img src="Game/SL1M3/Assets/gifs/Gameplay_SL1M3.gif" width="250px" alt="Gameplay"/></td>
   </tr>
 </table>
 
