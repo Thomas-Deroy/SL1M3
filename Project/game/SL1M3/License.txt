@@ -1,0 +1,14 @@
+SL1M3 – License & Credits
+
+SL1M3 is an original game created by Thomas Deroy.
+© Thomas Deroy. All rights reserved.
+
+All game code was developed by Thomas Deroy using Visual Studio Enterprise and Visual Studio Code.
+All visual assets were created by Thomas Deroy using Paint.NET.
+
+Audio Content
+Music sourced from Uppbeat and Pixabay (free licenses).
+
+This game was created for the Software Engineering class and is provided for personal use and enjoyment only.
+
+Thank you for playing.
