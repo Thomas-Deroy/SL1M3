@@ -2,12 +2,12 @@
 
 <table width="100%">
   <tr>
-    <td width="70%" align="left">
+    <td width="80%" align="left">
       <p><b>A 2D platformer where the game tries to delete you.</b></p>
       <p><i>Built with a Custom C++ Engine & Lua Scripting</i></p>
     </td>
-    <td width="30%" align="right">
-      <img src="Game/SL1M3/Assets/gifs/logo.png" width="200" alt="SL1M3 Logo" />
+    <td width="20%" align="right">
+      <img src="Game/SL1M3/Assets/gifs/logo.png" width="600" alt="SL1M3 Logo" />
     </td>
   </tr>
 </table>
