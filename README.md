@@ -1,10 +1,16 @@
 # SL1M3
 
-<p align="center">
-  <b>A 2D platformer where the game deletes itself as you play.</b>
-  <br />
-  <i>Built with a Custom C++ Engine & Lua Scripting</i>
-</p>
+<table width="100%">
+  <tr>
+    <td width="70%" align="left">
+      <p><b>A 2D platformer where the game tries to delete you.</b></p>
+      <p><i>Built with a Custom C++ Engine & Lua Scripting</i></p>
+    </td>
+    <td width="30%" align="right">
+      <img src="Game/SL1M3/Assets/gifs/logo.png" width="200" alt="SL1M3 Logo" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -29,7 +35,7 @@
 
 In **SL1M3**, survival is a race against time and data corruption. Players must navigate an endless sequence of increasingly difficult levels while a **constantly advancing laser** erases the world behind them. 
 
-The catch? The game is "deleting itself" as you progress. Move fast, or be erased.
+The catch? The game is trying to delete you as you progress. Move fast, or be erased.
 
 ---
 
@@ -53,7 +59,7 @@ I served as the sole technical artist for this project, creating:
 ---
 
 ## 🚀 How to Run
-> **Note:** This project was built for Windows/OpenGL.
+> **Note:** This project was built for Windows/OpenGL.  (Drag game_SL1M3.lua on the .exe to run)
 
    ```bash
    Game/LuaGameEngine.exe
